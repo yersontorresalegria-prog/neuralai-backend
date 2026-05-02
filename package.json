@@ -1,0 +1,21 @@
+{
+  "name": "neuralai-backend",
+  "version": "1.0.0",
+  "description": "NeuralAI Backend with Mercado Pago integration",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "neuralai",
+    "backend",
+    "mercado-pago"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
